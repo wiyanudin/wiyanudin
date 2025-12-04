@@ -1,5 +1,5 @@
 <h1>Hi, I'm Wiyanudin 👋</h1>
-<p>Developer & Lifelong Learner.</p>
+Developer & Lifelong Learner.
 
 ### 👨‍💻 What I’m Currently Working On
 
@@ -20,4 +20,4 @@
 
 - Email: *wiyanudinw@gmail.com*
 
-> “Code, learn, repeat.”
+“Code, learn, repeat.”
