@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Wiyanudin 👋</h1>
 
-<!--
-**wiyanudin/wiyanudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Developer & Lifelong Learner.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 What I’m Currently Working On
+
+- Building academic / campus ERP systems with **PHP (CodeIgniter 4)**
+- Some modules I’m working on:
+  - 📚 Course registration & class scheduling
+  - 👨‍🏫 Academic advising for students
+  - 💸 Invoice & tuition calculation based on credits
+  - 📃 and more
+
+---
+
+### 🛠 Tech Stack
+
+- **Backend:** PHP, CodeIgniter 4, Laravel
+- **Database:** MySQL / MariaDB   
+- **Web & Tools:** HTML, CSS, JavaScript, Git, VS Code  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wiyanudin&show_icons=true&theme=transparent" alt="GitHub stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wiyanudin&theme=transparent" alt="GitHub streak" />
+</p>
+
+---
+
+### 📫 Contact
+
+- Email: *wiyanudinw@gmail.com*
+
+---
+
+> “Code, learn, repeat.”
